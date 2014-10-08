@@ -1,0 +1,13 @@
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.exe.config
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.exe
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.pdb
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.csprojResolveAssemblyReference.cache
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\MainWindow.baml
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\MainWindow.g.cs
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\App.g.cs
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo_MarkupCompile.cache
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.g.resources
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.Properties.Resources.resources
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.csproj.GenerateResource.Cache
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.exe
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.pdb
