@@ -1,8 +1,15 @@
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.exe.config
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.exe
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\mesatrabajo.pdb
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\DataModel.dll
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\EstandarXs.dll
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\WPFToolkit.dll
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\DataModel.pdb
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\bin\Debug\EstandarXs.pdb
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo.csprojResolveAssemblyReference.cache
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\Estilos\Generalmesatrabajo.baml
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\MainWindow.baml
+C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\App.baml
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\MainWindow.g.cs
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\App.g.cs
 C:\Users\marco.navarro.UNOSQUARE\Google Drive\00Personal\00Desarrollo\01EstandarXs\mesatrabajo\mesatrabajo\obj\Debug\mesatrabajo_MarkupCompile.cache
